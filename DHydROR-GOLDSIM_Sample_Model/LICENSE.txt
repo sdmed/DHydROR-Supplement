@@ -1,0 +1,10 @@
+
+Copyright (c) 2026 DHydROR Development Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this algorithm, methodological framework, and associated implementation
+files (the "DHydROR Framework"), to use, copy, modify, and distribute the
+material for academic and research purposes. 
+
+Note: Execution of the implementation requires proprietary third-party software
+(GoldSim), which is not included in this license but freely available for academic and research purposes.

@@ -1,0 +1,19 @@
+Software: GoldSim
+Version: 15
+
+License type: Academic License
+
+Edition:
+Standard Edition
+
+Operating system:
+Windows 10 64-bit
+
+Model file:
+DHydROR_sample_model.gsm
+
+Compatibility note:
+The DHydROR sample model was developed using GoldSim Version 15 under Windows 10 (64-bit). The model is expected to run in GoldSim Version 15 or later. Users may need an active GoldSim license to open and execute the model.
+
+Repository purpose:
+This sample model is provided for peer review, methodological transparency, and reproducibility of the DHydROR framework presented in the associated manuscript.
